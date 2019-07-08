@@ -1,4 +1,8 @@
 alddfsal;jl;kfefdklsa;ei
-add one line by master add some
+y master add some
 add another line by merge1
 add line by master
+add one line by master add by merger1
+add another line by merge1
+add line
+
