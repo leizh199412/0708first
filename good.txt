@@ -6,4 +6,4 @@ add one line by master add by merger1
 add another line by merge1
 add line
 我是雷中华
-我也是雷中华，好巧
+我也是雷中华，好巧 加上一点·
